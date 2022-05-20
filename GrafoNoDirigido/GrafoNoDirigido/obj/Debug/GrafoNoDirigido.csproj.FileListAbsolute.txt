@@ -1,0 +1,8 @@
+C:\Users\USUARIO\OneDrive\UPB\Parcial Estructuras\GrafoNoDirigido\GrafoNoDirigido\bin\Debug\GrafoNoDirigido.exe.config
+C:\Users\USUARIO\OneDrive\UPB\Parcial Estructuras\GrafoNoDirigido\GrafoNoDirigido\bin\Debug\GrafoNoDirigido.exe
+C:\Users\USUARIO\OneDrive\UPB\Parcial Estructuras\GrafoNoDirigido\GrafoNoDirigido\bin\Debug\GrafoNoDirigido.pdb
+C:\Users\USUARIO\OneDrive\UPB\Parcial Estructuras\GrafoNoDirigido\GrafoNoDirigido\obj\Debug\GrafoNoDirigido.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\UPB\Parcial Estructuras\GrafoNoDirigido\GrafoNoDirigido\obj\Debug\GrafoNoDirigido.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\OneDrive\UPB\Parcial Estructuras\GrafoNoDirigido\GrafoNoDirigido\obj\Debug\GrafoNoDirigido.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\UPB\Parcial Estructuras\GrafoNoDirigido\GrafoNoDirigido\obj\Debug\GrafoNoDirigido.exe
+C:\Users\USUARIO\OneDrive\UPB\Parcial Estructuras\GrafoNoDirigido\GrafoNoDirigido\obj\Debug\GrafoNoDirigido.pdb

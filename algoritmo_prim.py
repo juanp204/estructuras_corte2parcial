@@ -23,12 +23,12 @@ def prim(matriz,numnodos,nodoi):
     return ["la suma de las dustancias es ", distancia]
 
 
-w = [ #0,1,2,3,4           #9 ---> No existe la arista que conecta esos vertices
-      [9,2,5,9,6], #0
-      [2,9,5,3,2], #1
-      [5,5,9,9,4], #2
-      [9,3,9,9,4], #3
-      [6,2,4,4,9]  #4
+ejercicio = [ 
+      [9,2,5,9,6], 
+      [2,9,5,3,2], 
+      [5,5,9,9,4], 
+      [9,3,9,9,4], 
+      [6,2,4,4,9]  
 ]
 
-print(prim(w,5,0))
+print(prim(ejercicio,5,0))

@@ -21,8 +21,7 @@ class Graph:
         else:
             parent[yroot] = xroot
             rank[xroot] += 1
-
-    #  Applying Kruskal algorithm
+            
     def kruskal_algo(self):
         result = []
         i, e = 0, 0
